@@ -1,9 +1,14 @@
 # paper-survey
 Issuesにサーベイした論文をゆっくりまとめる。
-テンプレは模索中️。
+
+Main topic
+- multimodal machine translation (MMT)
+- vision and language
+- data/model confidence/uncertainty in Deep Learning
+- large language model (LLM)
 
 
-現在は[a1da4](https://github.com/a1da4/paper-survey)さんのテンプレート👇を使用
+現在はa1da4さんのテンプレ👇[[link]](https://github.com/a1da4/paper-survey)を使用
 ```
 ## 0. Paper
 - paper: [link ](url)
