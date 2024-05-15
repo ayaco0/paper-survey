@@ -2,22 +2,21 @@
 Issuesにサーベイした論文をゆっくりまとめる。
 テンプレは模索中️。
 
-最新のテンプレは👇
+
+現在は[a1da4](https://github.com/a1da4/paper-survey)さんのテンプレート👇を使用
 ```
-### 論文リンク
+## 0. Paper
+- paper: [link ](url)
 
-### 著者/所属機関
+## 1. What is it?
 
-### 投稿年
+## 2. What is amazing compared to previous works?
 
-## 概要：
-## 研究背景
+## 3. Where is the key to technologies and techniques?
 
-## 提案手法
- 
-## 実験
+## 4. How did evaluate it?
 
-## 感想
+## 5. Is there a discussion?
 
-## 参考
+## 6. Which paper should read next?
 ```
